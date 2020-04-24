@@ -1,0 +1,20 @@
+﻿Developer:Just open Notepad and write it this way
+Developer:What do you think? Easy?
+Traveler:Yeah So simple.
+Developer:If another images is prepare, you can create a Dialog in earnest.
+Developer:Design is free! If there is a place with name and dialogue there is no problem.
+Developer:However, the recommended way is put the dialog object at the top of the list as shown in the example scene
+Developer:We recommend that you put the objects that make up the dialog box as children. That's why it's easy to manage later.
+Developer:First, we make the background part of the dialog window an image object
+Developer:Put SimpleDialogMgr, the main of this asset
+Traveler:Is there a reason to insert a script in the background of the dialog?
+Developer:No reason. It does not matter where you put it But Don't put objects that are disabled or deleted
+Developer:And then Create two Text objects as children of the image object
+Developer:One is where the name is printed and the other is where the dialogue is printed
+Developer:You can customize size, font, and color of Text objects.
+Developer:And turn off the Best Fit setting in the Text component of the Text object that outputs the dialogue.
+Developer:Next, there are illustrations and a few buttons. These may exist or may not exist.
+Developer:nextButton is important. But If you do not want to make it, you can replace it with a keyboard button. 
+Developer:That is why I am hard more to say and See the Guide Book for the rest.
+Developer:Do you have any more questions?
+:

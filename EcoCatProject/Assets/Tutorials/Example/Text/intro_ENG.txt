@@ -1,0 +1,10 @@
+﻿Developer:What are you having for dinner...
+Traveler:Excuse me. Is the developer who created this Asset here?
+Traveler:Uhhhhhh...huh?! Why Unity-chan is here?
+Developer:I am Developer.
+Traveler:Ahh?... Why are you Unity-chan?
+Developer:Once we have time to talk about it, it's because many people are waiting now
+Traveler:okay..
+Traveler:I came here to ask you
+Developer:What are you curious about?
+:

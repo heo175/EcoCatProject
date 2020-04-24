@@ -1,0 +1,440 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/StartScene 1.unity
+    guid: 714dbfb602ee337419917c3a493cb331
+  - enabled: 1
+    path: Assets/Scenes/Login/NicknameScene.unity
+    guid: ce2773289f1eb65458781cc79a29679a
+  - enabled: 1
+    path: Assets/Tutorials/Example/Tutorial2.unity
+    guid: 3585d97e085899d4aa9e232210cf0727
+  - enabled: 1
+    path: Assets/Stories/App/AppIntro1.unity
+    guid: d3265f3984a93f644bfaae1816ecb044
+  - enabled: 1
+    path: Assets/Stories/App/AppIntro2.unity
+    guid: 67a7060bd638ee64f8576ff9327186f9
+  - enabled: 1
+    path: Assets/Scenes/ClearSceneHARD.unity
+    guid: 6cc83eff6e998624e9d118d6a3d972ad
+  - enabled: 1
+    path: Assets/Scenes/ClearSceneNORMAL.unity
+    guid: 51e65b617cb7a2c44b6a9c8c902edd79
+  - enabled: 1
+    path: Assets/Stories/App/AppIntro3.unity
+    guid: c18e6bbef58c5b645a77db2d6a0656e6
+  - enabled: 1
+    path: Assets/Stories/App/AppIntro4.unity
+    guid: 05449dc92ec83c24797331c2183ddc46
+  - enabled: 1
+    path: Assets/Stories/App/AppIntro5.unity
+    guid: 00cd48faaa660f947adcd752a390bae6
+  - enabled: 1
+    path: Assets/ChapterScene/Scene/PolarClear.unity
+    guid: 7ae5784d28f46d74a85cdff5b5cf9772
+  - enabled: 1
+    path: Assets/ChapterScene/Scene/PolarStart.unity
+    guid: 11bbdab32a4db7b47970f31de36f36df
+  - enabled: 1
+    path: Assets/ChapterScene/Scene/AllClear.unity
+    guid: 37a6eddf60d9ae944ba1c639e958e6f9
+  - enabled: 1
+    path: Assets/ChapterScene/Scene/DolphinClear.unity
+    guid: 346d28ef4f55009498499a44f03a032a
+  - enabled: 1
+    path: Assets/ChapterScene/Scene/DolphinStart.unity
+    guid: dcb2edde8e50a004baa4f38f96bb3347
+  - enabled: 1
+    path: Assets/ChapterScene/Scene/PandaClear.unity
+    guid: f58073f7752711342908ac2c1b9a3f91
+  - enabled: 1
+    path: Assets/ChapterScene/Scene/PandaStart.unity
+    guid: 28372aeaf7c2e4643bc0ce8dc7e86c88
+  - enabled: 1
+    path: Assets/ChapterScene/Scene/TreeClear.unity
+    guid: 9d25120f4abdb9f498ac2155298b68f6
+  - enabled: 1
+    path: Assets/ChapterScene/Scene/TreeStart.unity
+    guid: 1a0746b8654617d469f8238a23ff3306
+  - enabled: 1
+    path: Assets/MiniGames/PickingTrashGame/Scenes/PickingMenuScreen.unity
+    guid: f22d4fd84225b824ba59f5628be709d8
+  - enabled: 1
+    path: Assets/MiniGames/CatchGame/Scenes/CatchMenuScreen.unity
+    guid: 8b1b8efce7e9724429b2906ea9ac8220
+  - enabled: 1
+    path: Assets/MiniGames/SeparateGame/Scenes/SeparateMenuScreen.unity
+    guid: e0b25798dd99dd04ca009484fe388aa3
+  - enabled: 1
+    path: Assets/AndroidPedometer/Scenes/GameScene.unity
+    guid: 405d5f183abc68549b104b1ccfac0d4c
+  - enabled: 1
+    path: Assets/AndroidPedometer/Scenes/StepRecord.unity
+    guid: 1653984737ffb4f438afe9c156f14134
+  - enabled: 1
+    path: Assets/MiniGames/GrowingTreeGame/Scenes/GrowingMenuScreen.unity
+    guid: 9e44eca33e6e10e49868cd58af4cc7b2
+  - enabled: 1
+    path: Assets/MiniGames/PickingTrashGame/Scenes/HARDPickingRiverTrash.unity
+    guid: 9a0c8f1277eaad743821a2ff04257f33
+  - enabled: 1
+    path: Assets/MiniGames/PickingTrashGame/Scenes/EASYPickingRiverTrash.unity
+    guid: c4a5ac6b8212ee04eaef282040f66720
+  - enabled: 1
+    path: Assets/MiniGames/PickingTrashGame/Scenes/NORMALPickingRiverTrash.unity
+    guid: e032fd76a30134f4a96504ba6d860ee4
+  - enabled: 1
+    path: Assets/Infomation/Scene/moreInfoScene2_2.unity
+    guid: d4b7d7bbf000c964da2501fd22663047
+  - enabled: 1
+    path: Assets/Infomation/Scene/moreInfoScene2_3.unity
+    guid: 7589597c5501a4b4db8c6a467a63ff6d
+  - enabled: 1
+    path: Assets/Infomation/Scene/moreInfoScene3_2.unity
+    guid: cf71e79fff817304cb130d7a5ac2f731
+  - enabled: 1
+    path: Assets/Infomation/Scene/moreInfoScene3_3.unity
+    guid: cfe0a127d191ad84e8950b1ba90eab79
+  - enabled: 1
+    path: Assets/Infomation/Scene/moreInfoScene3_4.unity
+    guid: 1ae3e83d5109cb946bd7605db9c4ca80
+  - enabled: 1
+    path: Assets/Infomation/Scene/moreInfoScene3_5.unity
+    guid: e622e267c53ff4444a77da87899fe6ad
+  - enabled: 1
+    path: Assets/Infomation/Scene/moreInfoScene4_2.unity
+    guid: 0beb390d71955864da7599aa57de3578
+  - enabled: 1
+    path: Assets/Infomation/Scene/moreInfoScene4_3.unity
+    guid: 527ddb147c368ac4291e21af287ab41a
+  - enabled: 1
+    path: Assets/Infomation/Scene/moreInfoScene5_2.unity
+    guid: 5424a630ec44faf42bbd9a9dbc1c6782
+  - enabled: 1
+    path: Assets/Infomation/Scene/moreInfoScene5_3.unity
+    guid: 5626da8e91b5b52408a0c733cd349351
+  - enabled: 1
+    path: Assets/Infomation/Scene/moreInfoScene5_4.unity
+    guid: 16d27486673550c40abfde21ab5009c1
+  - enabled: 1
+    path: Assets/Infomation/Scene/moreInfoScene6_2.unity
+    guid: 4ebd6c4c4140273408522bb9b4c4da76
+  - enabled: 1
+    path: Assets/Infomation/Scene/moreInfoScene6_3.unity
+    guid: 5b57d45c43e590e47b53f8bc28a72fb0
+  - enabled: 1
+    path: Assets/Infomation/Scene/moreInfoScene6_4.unity
+    guid: 9c816550e8d135b44b09fd063a8b9ea9
+  - enabled: 1
+    path: Assets/Infomation/Scene/moreInfoScene6_5.unity
+    guid: 63f3aafcfa69b1f48bb5eb1992975b6e
+  - enabled: 1
+    path: Assets/Infomation/Scene/moreInfoScene_2.unity
+    guid: 6e3ae67b60505224d961c03c3f575ef9
+  - enabled: 1
+    path: Assets/Infomation/Scene/moreInfoScene_3.unity
+    guid: 5b73c726cdac7634aaa44ac1096f2a65
+  - enabled: 1
+    path: Assets/Infomation/Scene/moreInfoScene_4.unity
+    guid: c0ecd9702f375404694f86fe22c1d301
+  - enabled: 1
+    path: Assets/Infomation/Scene/moreInfoScene_5.unity
+    guid: 3a8feaea0bf063147bda23208b45d543
+  - enabled: 1
+    path: Assets/Stories/Dolphin/DolphinIntro1.unity
+    guid: c1ebebd112d55844599ce1a66f65f196
+  - enabled: 1
+    path: Assets/Stories/Dolphin/DolphinIntro2.unity
+    guid: 65d69415b8039f74989a50f532474ec8
+  - enabled: 1
+    path: Assets/Stories/Dolphin/DolphinIntro3.unity
+    guid: a21eb936a71cfb34b8b65a4c62ca250c
+  - enabled: 1
+    path: Assets/Stories/Dolphin/DolphinOutro.unity
+    guid: 4864641066758484e923bbc00b98d2a8
+  - enabled: 1
+    path: Assets/Stories/PolarBear/PolarBearIntro.unity
+    guid: ddd52797ae4bbc1408da82681fa54fc1
+  - enabled: 1
+    path: Assets/Stories/PolarBear/PolarBearIntro1.unity
+    guid: 9d5dcba2b7c18ab4e8cbe27b7d0bcf71
+  - enabled: 1
+    path: Assets/Stories/PolarBear/PolarBearIntro2.unity
+    guid: 5aa4032199adc1046a57386bad57b113
+  - enabled: 1
+    path: Assets/Stories/PolarBear/PolarBearIntro3.unity
+    guid: 76810af12ac91b942b10a3f98e1b2ee9
+  - enabled: 1
+    path: Assets/Stories/PolarBear/PolarBearIntro4.unity
+    guid: afb061ded3289c84783cc1415869006b
+  - enabled: 1
+    path: Assets/Stories/PolarBear/PolarBearOutro.unity
+    guid: 4b8d8499d0eecb14d884cc8578548483
+  - enabled: 1
+    path: Assets/Stories/PolarBear/PolarBearTutorial.unity
+    guid: f59e4d65f8bfb8c409995488816bdbe0
+  - enabled: 1
+    path: Assets/Stories/Panda/PandaIntro1.unity
+    guid: 568a7095964d64645b7a3ad826173bbe
+  - enabled: 1
+    path: Assets/Stories/Panda/PandaIntro2.unity
+    guid: 4c41013b0aca87446a217f682a0fa385
+  - enabled: 1
+    path: Assets/Stories/Panda/PandaIntro3.unity
+    guid: c6397e1c46dd3ec4394b096c3677ad0c
+  - enabled: 1
+    path: Assets/Stories/Panda/PandaIntro4.unity
+    guid: 47515b20664b5ff4cb157d854af65df1
+  - enabled: 1
+    path: Assets/Stories/Panda/PandaOutro.unity
+    guid: 30069d0ac0be85b47948a9c272f600ee
+  - enabled: 1
+    path: Assets/Stories/Tree/TreeIntro1.unity
+    guid: 953bfa5849b91f147b77db54baf4834f
+  - enabled: 1
+    path: Assets/Stories/Tree/TreeIntro2.unity
+    guid: 4fe4df696886e8b42ba028b52a3ab66b
+  - enabled: 1
+    path: Assets/Stories/Tree/TreeIntro3.unity
+    guid: bef6e5cfa6e5fa44c824b1513bd107e0
+  - enabled: 1
+    path: Assets/Stories/Tree/TreeOutro.unity
+    guid: f55c9a0014e638841ade44e68c000229
+  - enabled: 1
+    path: Assets/SaveAnimal/Scene/SaveAnimal0.unity
+    guid: 038994eb60e6ecc4c934d28aa1cf6d0f
+  - enabled: 1
+    path: Assets/SaveAnimal/Scene/SaveAnimal1.unity
+    guid: f3d8c80fad50ff546addd6e94a84f050
+  - enabled: 1
+    path: Assets/SaveAnimal/Scene/SaveAnimal2.unity
+    guid: 340e0059f9f6e8940af70bba29d17179
+  - enabled: 1
+    path: Assets/SaveAnimal/Scene/SaveAnimal3.unity
+    guid: 605e35e953aae4d4b8666b98b774d8fe
+  - enabled: 1
+    path: Assets/SaveAnimal/Scene/SaveAnimal4.unity
+    guid: 57d41e2f38c2bf34cbfac8db65c5e3ee
+  - enabled: 1
+    path: Assets/RecycleMark/Scenes/CanScene.unity
+    guid: 049753148eb00d24aada5480bd2192bf
+  - enabled: 1
+    path: Assets/RecycleMark/Scenes/EtcScene.unity
+    guid: 8b8c6499dfabe544f817791fc7b43c66
+  - enabled: 1
+    path: Assets/RecycleMark/Scenes/EtcScene2.unity
+    guid: d40996b663fa00a429c974a343c6fff0
+  - enabled: 1
+    path: Assets/RecycleMark/Scenes/EtcScene3.unity
+    guid: e199187da3968774296f8a1e0da87674
+  - enabled: 1
+    path: Assets/RecycleMark/Scenes/GlassScene.unity
+    guid: a3fea0d58536f5a4da08908a35820175
+  - enabled: 1
+    path: Assets/RecycleMark/Scenes/PaperPackScene.unity
+    guid: 9b506648788572b40b50d3272b3e5520
+  - enabled: 1
+    path: Assets/RecycleMark/Scenes/PaperScene.unity
+    guid: de6eef11979a24d4da2f132e83657084
+  - enabled: 1
+    path: Assets/RecycleMark/Scenes/PlasticScene.unity
+    guid: 4f8367f5250b5904dbbb70108cbcf058
+  - enabled: 1
+    path: Assets/RecycleMark/Scenes/VinylScene.unity
+    guid: 20ae7f1eea13db2468eb183b65e06382
+  - enabled: 1
+    path: Assets/RecycleMark/Scenes/VuforiaSceneNormal.unity
+    guid: 475b1b05d1209bd45b19259ed0ebe7a2
+  - enabled: 1
+    path: Assets/RecycleMark/Scenes/VuforiaSceneAR.unity
+    guid: 572a045bbc783764eb30d930e29cb585
+  - enabled: 1
+    path: Assets/MiniGames/CatchGame/Scenes/EASYCatchGame.unity
+    guid: 8d6215da3ca77a54590a37859c81bb1d
+  - enabled: 1
+    path: Assets/MiniGames/CatchGame/Scenes/HARDCatchGame.unity
+    guid: 664c4e90036f93d4fbb52a7a1c964d5d
+  - enabled: 1
+    path: Assets/MiniGames/CatchGame/Scenes/MainCatchGame.unity
+    guid: ff9a03c7bb815b4458bf84bc4823fb9a
+  - enabled: 1
+    path: Assets/MiniGames/CatchGame/Scenes/NORMALCatchGame.unity
+    guid: bc78bc1a4a4fd054ca6a6c732a18ea60
+  - enabled: 1
+    path: Assets/MiniGames/GrowingTreeGame/Scenes/EASYGrowingTree.unity
+    guid: 01c7b6a535bf68b4b9fa3176aca2c126
+  - enabled: 1
+    path: Assets/MiniGames/GrowingTreeGame/Scenes/MainGrowingTreeGame.unity
+    guid: 760c504e86345214c96586a3f89fc9fe
+  - enabled: 1
+    path: Assets/MiniGames/GrowingTreeGame/Scenes/NORMALGrowingTree.unity
+    guid: 762a30db93c746246a238996f1cc2e56
+  - enabled: 1
+    path: Assets/MiniGames/GrowingTreeGame/Scenes/HARDGrowingTree.unity
+    guid: 2a7d80ba25da64543ba3c07b21f3e61a
+  - enabled: 1
+    path: Assets/Tutorials/Example/Tutorial1.unity
+    guid: fbf739ad0f5d48d478066c224dfce42f
+  - enabled: 1
+    path: Assets/Tutorials/Example/Tutorial3.unity
+    guid: 5a8c7f77cf26aea4aa86e2751ccf2947
+  - enabled: 1
+    path: Assets/Tutorials/Example/Tutorial5.unity
+    guid: d5c2a3d544af7324c8a5d0ca8a93a64a
+  - enabled: 1
+    path: Assets/Tutorials/Example/TutorialGame.unity
+    guid: 4f542d828c270814fa6001f9058fb1a0
+  - enabled: 1
+    path: Assets/MiniGames/QuizGame/Scenes/HARDGame.unity
+    guid: 820be5dc8b8a10f4186740fcb6a947b6
+  - enabled: 1
+    path: Assets/MiniGames/QuizGame/Scenes/NORMALGame.unity
+    guid: ba5929fe39bbaba4b8099640e19ff1d0
+  - enabled: 1
+    path: Assets/MiniGames/SeparateGame/Scenes/NORMALseparate.unity
+    guid: b5db9c9ec84d18a46bcbf74f59f2b0d8
+  - enabled: 1
+    path: Assets/Scenes/ClearScene.unity
+    guid: e461cbaa114d7db47b0407ea7fca74eb
+  - enabled: 1
+    path: Assets/Scenes/ClearScene 1.unity
+    guid: 66a52cc6ddb2aba4fa9053ee0b0fd8f8
+  - enabled: 1
+    path: Assets/Scenes/FailScene.unity
+    guid: a68148f04b9005b419771c0352d34f72
+  - enabled: 1
+    path: Assets/Scenes/FailScene 1.unity
+    guid: 51c684a7b63327244bef77c9642deac1
+  - enabled: 1
+    path: Assets/Scenes/GameList.unity
+    guid: e38a6f3a31e80d4469eb807de2364b75
+  - enabled: 1
+    path: Assets/Scenes/GameList 1.unity
+    guid: 9237787622fa77041a8c5213fc646c44
+  - enabled: 1
+    path: Assets/Scenes/GoogleFailSignup.unity
+    guid: adce83e7b63999b4889927b8bb191ec0
+  - enabled: 1
+    path: Assets/Scenes/GoogleSuccessSignup.unity
+    guid: 563ef98f557eac8418786eeb884424ca
+  - enabled: 1
+    path: Assets/Scenes/HardClearScene.unity
+    guid: 0786b0d74568fe5439d34c562da16bb0
+  - enabled: 1
+    path: Assets/Scenes/HardClearScene 1.unity
+    guid: b6c16a60fa35cc44091750906731a3a1
+  - enabled: 1
+    path: Assets/Scenes/Join.unity
+    guid: 545a511b46bea434fb4befc23a16ae86
+  - enabled: 1
+    path: Assets/Scenes/Login.unity
+    guid: 988cff108e8d58e4583362dc5e71e50c
+  - enabled: 1
+    path: Assets/Scenes/LoginScene.unity
+    guid: 34c71c276b7e0df48ac7c5ff79b484a6
+  - enabled: 1
+    path: Assets/Scenes/MainScene.unity
+    guid: 136b8caa50bd54e4f91344e793cffae7
+  - enabled: 1
+    path: Assets/Scenes/Mypage.unity
+    guid: c7b040eacb8591e4fb6c128622e0e3bf
+  - enabled: 1
+    path: Assets/Scenes/NormalClearScene.unity
+    guid: 4db00732565128842a640ebeefe6c4d3
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: 12e40f9d34c8d3144b447d4f15146ec9
+  - enabled: 1
+    path: Assets/Scenes/Sound.unity
+    guid: 3972551d3c1193944aafae8df5ac7c2c
+  - enabled: 1
+    path: Assets/Scenes/StartScene.unity
+    guid: 7fcbc3ddadeb04341952788bc841e2d6
+  - enabled: 1
+    path: Assets/Scenes/WalkingScene.unity
+    guid: 67f78241c283cbb40bdd7d32e489764a
+  - enabled: 1
+    path: Assets/RecycleMark/Scenes/PetScene.unity
+    guid: 9b26cd466a98dd54b821ffeeec46f3ed
+  - enabled: 1
+    path: Assets/RecycleMark/Scenes/SearchScene.unity
+    guid: 8b4651d10254c7b45b8a17ab7fbc2f07
+  - enabled: 1
+    path: Assets/RecycleMark/Scenes/SearchScene1.unity
+    guid: 5f13352f2c466774ab857f885e9ebeb9
+  - enabled: 1
+    path: Assets/RecycleMark/Scenes/SearchScene2.unity
+    guid: 321fc9ff9a6915540b3a9d0a6fc02b27
+  - enabled: 1
+    path: Assets/MiniGames/SeparateGame/Scenes/EASYseparate.unity
+    guid: 65fc265e0a767b24b8082e8f5d4d6155
+  - enabled: 1
+    path: Assets/MiniGames/SeparateGame/Scenes/HARDseparate.unity
+    guid: 7010715acb9d22d4f9224f347edf6d95
+  - enabled: 1
+    path: Assets/MiniGames/SeparateGame/Scenes/SeparateMain.unity
+    guid: af9fa8d36bc389d4da26ddbd7aff6589
+  - enabled: 1
+    path: Assets/MiniGames/SeparateGame/Scenes/SeparateTrash.unity
+    guid: a9572c5af5f32eb4ab44ca0367c62a4c
+  - enabled: 1
+    path: Assets/MiniGames/RunGame/Scenes/EASYRunGame.unity
+    guid: cb614a421f4507448a6dca6c3fe907ab
+  - enabled: 1
+    path: Assets/MiniGames/RunGame/Scenes/HARDRunGame.unity
+    guid: 165b1b18b16ce734096113b176a5392c
+  - enabled: 1
+    path: Assets/MiniGames/RunGame/Scenes/NORMALRunGame.unity
+    guid: a835b87273ba9344bb06d3e6066909a8
+  - enabled: 1
+    path: Assets/MiniGames/RunGame/Scenes/RunGame.unity
+    guid: 09a1b65a6c965a54eadf91810b65ee45
+  - enabled: 1
+    path: Assets/MiniGames/RunGame/Scenes/RunGameMain.unity
+    guid: da501a169e9ad3a47bd4198c6ca7408b
+  - enabled: 1
+    path: Assets/MiniGames/QuizGame/Scenes/EASYGame.unity
+    guid: d5fd10862864423449b9f09e358d79dd
+  - enabled: 1
+    path: Assets/MiniGames/QuizGame/Scenes/Game.unity
+    guid: 1800b90c7ea3c784788980e84f323dac
+  - enabled: 1
+    path: Assets/MiniGames/QuizGame/Scenes/MenuScreen.unity
+    guid: 7c712954c8e372e49a9c620b4c019fbb
+  - enabled: 1
+    path: Assets/Infomation/Scene/InformationScene.unity
+    guid: e473948be6a418140b06e54f351e6d1d
+  - enabled: 1
+    path: Assets/Infomation/Scene/moreInfoScene.unity
+    guid: a48cab48b58e2b9469cd1f90360dc5ad
+  - enabled: 1
+    path: Assets/Infomation/Scene/moreInfoScene2.unity
+    guid: 28b2afb99fd44254da1243d54a734e50
+  - enabled: 1
+    path: Assets/Infomation/Scene/moreInfoScene3.unity
+    guid: d431d1a88bd44e24383057cdd388f805
+  - enabled: 1
+    path: Assets/Infomation/Scene/moreInfoScene4.unity
+    guid: bde91565603f03744a94ebd7a547a4cc
+  - enabled: 1
+    path: Assets/Infomation/Scene/moreInfoScene5.unity
+    guid: e5ed6646ab4a3f045b7b6eaf720ebd0c
+  - enabled: 1
+    path: Assets/Infomation/Scene/moreInfoScene6.unity
+    guid: b7d5956d023e3664eaa083d368cc6b09
+  - enabled: 1
+    path: Assets/MiniGames/QuizGame/Scenes/Persistent.unity
+    guid: 6b96f83fee360834f8061ef7cb662126
+  - enabled: 1
+    path: Assets/MiniGames/RunGame/Scenes/RunMenuScreen.unity
+    guid: adee03fc3c86c3544ac10a07c1d04467
+  - enabled: 1
+    path: Assets/MiniGames/PickingTrashGame/Scenes/PickingGameMain.unity
+    guid: b7a7ca29c3925ec4a87d53dba3182f05
+  m_configObjects: {}

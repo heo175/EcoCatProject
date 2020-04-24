@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="plastic333" size="30.000000 25.102041" />
+    <ImageTarget name="plastic222" size="30.000000 26.674364" />
+    <ImageTarget name="plastic11" size="30.000000 29.647749" />
+    <ImageTarget name="24" size="30.000000 29.508196" />
+    <ImageTarget name="27" size="30.000000 29.508196" />
+    <ImageTarget name="23" size="30.000000 29.508196" />
+    <ImageTarget name="22" size="30.000000 29.508196" />
+    <ImageTarget name="21" size="30.000000 29.508196" />
+    <ImageTarget name="20" size="30.000000 29.508196" />
+    <ImageTarget name="19" size="30.000000 29.508196" />
+    <ImageTarget name="18" size="30.000000 29.508196" />
+    <ImageTarget name="17" size="30.000000 29.508196" />
+    <ImageTarget name="16" size="30.000000 29.508196" />
+    <ImageTarget name="15" size="30.000000 29.508196" />
+    <ImageTarget name="14" size="30.000000 29.508196" />
+    <ImageTarget name="13" size="30.000000 29.508196" />
+    <ImageTarget name="11" size="30.000000 29.508196" />
+    <ImageTarget name="10" size="30.000000 29.508196" />
+    <ImageTarget name="9" size="30.000000 29.508196" />
+    <ImageTarget name="8" size="30.000000 29.508196" />
+    <ImageTarget name="7" size="30.000000 29.508196" />
+    <ImageTarget name="6" size="30.000000 29.508196" />
+    <ImageTarget name="5" size="30.000000 29.508196" />
+    <ImageTarget name="4" size="30.000000 29.508196" />
+    <ImageTarget name="3" size="30.000000 29.508196" />
+    <ImageTarget name="2" size="30.000000 29.508196" />
+    <ImageTarget name="1" size="30.000000 29.508196" />
+    <ImageTarget name="plastic_p1" size="30.000000 31.333334" />
+    <ImageTarget name="plastic3" size="50.000000 44.163425" />
+    <ImageTarget name="plastic22" size="30.000000 37.868851" />
+    <ImageTarget name="plastic1" size="30.000000 29.508196" />
+    <ImageTarget name="plastic" size="10.000000 9.836065" />
+  </Tracking>
+</QCARConfig>

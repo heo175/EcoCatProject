@@ -1,0 +1,327 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!29 &1
+OcclusionCullingSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_OcclusionBakeSettings:
+    smallestOccluder: 5
+    smallestHole: 0.25
+    backfaceThreshold: 100
+  m_SceneGUID: 00000000000000000000000000000000
+  m_OcclusionCullingData: {fileID: 0}
+--- !u!104 &2
+RenderSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 9
+  m_Fog: 0
+  m_FogColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
+  m_FogMode: 3
+  m_FogDensity: 0.01
+  m_LinearFogStart: 0
+  m_LinearFogEnd: 300
+  m_AmbientSkyColor: {r: 0.212, g: 0.227, b: 0.259, a: 1}
+  m_AmbientEquatorColor: {r: 0.114, g: 0.125, b: 0.133, a: 1}
+  m_AmbientGroundColor: {r: 0.047, g: 0.043, b: 0.035, a: 1}
+  m_AmbientIntensity: 1
+  m_AmbientMode: 3
+  m_SubtractiveShadowColor: {r: 0.42, g: 0.478, b: 0.627, a: 1}
+  m_SkyboxMaterial: {fileID: 0}
+  m_HaloStrength: 0.5
+  m_FlareStrength: 1
+  m_FlareFadeSpeed: 3
+  m_HaloTexture: {fileID: 0}
+  m_SpotCookie: {fileID: 10001, guid: 0000000000000000e000000000000000, type: 0}
+  m_DefaultReflectionMode: 0
+  m_DefaultReflectionResolution: 128
+  m_ReflectionBounces: 1
+  m_ReflectionIntensity: 1
+  m_CustomReflection: {fileID: 0}
+  m_Sun: {fileID: 0}
+  m_IndirectSpecularColor: {r: 0, g: 0, b: 0, a: 1}
+  m_UseRadianceAmbientProbe: 0
+--- !u!157 &3
+LightmapSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 11
+  m_GIWorkflowMode: 1
+  m_GISettings:
+    serializedVersion: 2
+    m_BounceScale: 1
+    m_IndirectOutputScale: 1
+    m_AlbedoBoost: 1
+    m_EnvironmentLightingMode: 0
+    m_EnableBakedLightmaps: 0
+    m_EnableRealtimeLightmaps: 0
+  m_LightmapEditorSettings:
+    serializedVersion: 10
+    m_Resolution: 2
+    m_BakeResolution: 40
+    m_AtlasSize: 1024
+    m_AO: 0
+    m_AOMaxDistance: 1
+    m_CompAOExponent: 1
+    m_CompAOExponentDirect: 0
+    m_Padding: 2
+    m_LightmapParameters: {fileID: 0}
+    m_LightmapsBakeMode: 1
+    m_TextureCompression: 1
+    m_FinalGather: 0
+    m_FinalGatherFiltering: 1
+    m_FinalGatherRayCount: 256
+    m_ReflectionCompression: 2
+    m_MixedBakeMode: 2
+    m_BakeBackend: 1
+    m_PVRSampling: 1
+    m_PVRDirectSampleCount: 32
+    m_PVRSampleCount: 500
+    m_PVRBounces: 2
+    m_PVRFilterTypeDirect: 0
+    m_PVRFilterTypeIndirect: 0
+    m_PVRFilterTypeAO: 0
+    m_PVRFilteringMode: 1
+    m_PVRCulling: 1
+    m_PVRFilteringGaussRadiusDirect: 1
+    m_PVRFilteringGaussRadiusIndirect: 5
+    m_PVRFilteringGaussRadiusAO: 2
+    m_PVRFilteringAtrousPositionSigmaDirect: 0.5
+    m_PVRFilteringAtrousPositionSigmaIndirect: 2
+    m_PVRFilteringAtrousPositionSigmaAO: 1
+    m_ShowResolutionOverlay: 1
+  m_LightingDataAsset: {fileID: 0}
+  m_UseShadowmask: 1
+--- !u!196 &4
+NavMeshSettings:
+  serializedVersion: 2
+  m_ObjectHideFlags: 0
+  m_BuildSettings:
+    serializedVersion: 2
+    agentTypeID: 0
+    agentRadius: 0.5
+    agentHeight: 2
+    agentSlope: 45
+    agentClimb: 0.4
+    ledgeDropHeight: 0
+    maxJumpAcrossDistance: 0
+    minRegionArea: 2
+    manualCellSize: 0
+    cellSize: 0.16666667
+    manualTileSize: 0
+    tileSize: 256
+    accuratePlacement: 0
+    debug:
+      m_Flags: 0
+  m_NavMeshData: {fileID: 0}
+--- !u!1 &2060159263
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2060159264}
+  - component: {fileID: 2060159265}
+  m_Layer: 0
+  m_Name: DataController
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2060159264
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2060159263}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2060159265
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2060159263}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 15dc068ac88e27a449ca8c8912636de4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  allRoundData:
+  - name: Round Zone
+    timeLimitInSeconds: 60
+    pointsAddedForCorrectAnswer: 1
+    questions:
+    - questionText: "\uAC00\uC815\uC5D0\uC11C \uC0AC\uB78C\uC774 \uC0DD\uD65C\uD558\uBA74\uC11C
+        \uBC1C\uC0DD\uC2DC\uD0A4\uB294 \uD3D0\uAE30\uBB3C\uC744 \u2018\uC0DD\uD65C\uD3D0\uAE30\uBB3C\u2019\uC774\uB77C\uACE0
+        \uD569\uB2C8\uB2E4. "
+      answers:
+      - answerText: O
+        isCorrect: 1
+      - answerText: X
+        isCorrect: 0
+    - questionText: "\uC0DD\uD65C\uD3D0\uAE30\uBB3C\uC740 \u2018\uB9E4\uB9BD\u2019,
+        \u2018\uC18C\uAC01\u2019, \u2018\uC7AC\uD65C\uC6A9\u2019\uC73C\uB85C \uAD6C\uBD84
+        \uD6C4 \uCC98\uB9AC\uB429\uB2C8\uB2E4."
+      answers:
+      - answerText: O
+        isCorrect: 1
+      - answerText: X
+        isCorrect: 0
+    - questionText: "\uC0DD\uD65C\uD3D0\uAE30\uBB3C \uC911 \uC7AC\uD65C\uC6A9\uB418\uC9C0
+        \uC54A\uACE0, \uC27D\uAC8C \uBD84\uD574\uB418\uC9C0 \uC54A\uB294 \uD3D0\uAE30\uBB3C\uC740
+        \uB545\uC5D0 \uB9E4\uB9BD\uC2DC\uCF1C \uC624\uB7AB\uB3D9\uC548 \uC11C\uC11C\uD788
+        \uBD84\uD574\uB418\uB3C4\uB85D \uD569\uB2C8\uB2E4.  \uD3D0\uAE30\uBB3C\uC744
+        \uB9E4\uB9BD\uD560 \uC218 \uC788\uB294 \uB545\uC774 \uB9E4\uC6B0 \uB9CE\uACE0,
+        \uD658\uACBD \uC624\uC5FC\uACFC \uAD00\uB828\uC774 \uC5C6\uAE30 \uB54C\uBB38\uC5D0
+        \uBAA8\uB4E0 \uC0DD\uD65C\uD3D0\uAE30\uBB3C\uC744 \uB9E4\uB9BD\uD574\uB3C4
+        \uB429\uB2C8\uB2E4. "
+      answers:
+      - answerText: O
+        isCorrect: 0
+      - answerText: X
+        isCorrect: 1
+    - questionText: "\uAC00\uC815\uC5D0\uC11C \uBC30\uCD9C\uB418\uB294 \uC0DD\uD65C\uD3D0\uAE30\uBB3C\uC740
+        \uB300\uBD80\uBD84 \uC18C\uAC01 \uB610\uB294 \uC7AC\uD65C\uC6A9\uC744 \uD1B5\uD574
+        \uCC98\uB9AC\uB429\uB2C8\uB2E4."
+      answers:
+      - answerText: O
+        isCorrect: 1
+      - answerText: X
+        isCorrect: 0
+    - questionText: "\uD30C\uC1C4\uAC00 \uC5B4\uB835\uAC70\uB098, \uC774\uBB3C\uC9C8\uC774\uB098
+        \uC720\uD574\uBB3C\uC9C8\uC774 \uC11E\uC5EC \uC788\uB294 \uC74C\uC2DD\uBB3C\uC740
+        \uC74C\uC2DD\uBB3C\uC4F0\uB808\uAE30\uB85C \uBC84\uB824\uC57C\uD569\uB2C8\uB2E4. "
+      answers:
+      - answerText: O
+        isCorrect: 0
+      - answerText: X
+        isCorrect: 1
+    - questionText: "\uACFC\uC77C\uC758 \uC528, \uC870\uAC1C \uAECD\uB370\uAE30, \uB2ED\uBF08,
+        \uD2F0\uBC31\uC740 \uC74C\uC2DD\uBB3C\uC4F0\uB808\uAE30\uAC00 \uC544\uB2CC
+        \uC77C\uBC18\uC4F0\uB808\uAE30\uC785\uB2C8\uB2E4."
+      answers:
+      - answerText: O
+        isCorrect: 1
+      - answerText: X
+        isCorrect: 0
+    - questionText: "\uC218\uBD84\uC774 \uC801\uACE0 \uB531\uB531\uD558\uAC70\uB098
+        \uC720\uD574\uD55C \uAC83\uC740 \uC77C\uBC18 \uC4F0\uB808\uAE30 \uC885\uB7C9\uC81C
+        \uBD09\uD22C\uB85C \uBC30\uCD9C\uD574\uC57C\uD569\uB2C8\uB2E4."
+      answers:
+      - answerText: O
+        isCorrect: 1
+      - answerText: X
+        isCorrect: 0
+    - questionText: "\uB18D\uC57D \uBE44\uB8CC\uC640 \uAC00\uCD95 \uBD84\uB1E8, \uC0DD\uD65C
+        \uC624\uBB3C \uB4F1\uC758 \uBB3C\uC9C8\uC774 \uB9CE\uC744\uC218\uB85D \uD1A0\uC591\uC774
+        \uB354 \uAC74\uAC15\uD574\uC9D1\uB2C8\uB2E4."
+      answers:
+      - answerText: O
+        isCorrect: 0
+      - answerText: X
+        isCorrect: 1
+    - questionText: "\uC4F0\uB808\uAE30 \uBC30\uCD9C\uB7C9\uC744 \uC904\uC774\uB294
+        \uAC83\uC740 \uD1A0\uC591\uC624\uC5FC \uC608\uBC29 \uBC29\uBC95 \uC911 \uD558\uB098\uC785\uB2C8\uB2E4."
+      answers:
+      - answerText: O
+        isCorrect: 1
+      - answerText: X
+        isCorrect: 0
+    - questionText: "\uC624\uC5FC\uB41C \uD1A0\uC591\uC740 \uB18D\uC791\uBB3C \uC0DD\uC0B0\uC131\uC744
+        \uB5A8\uC5B4\uB728\uB9AC\uACE0, \uB18D\uC791\uBB3C\uC5D0 \uC624\uC5FC\uBB3C\uC9C8\uC774
+        \uC720\uC785\uB420 \uC218 \uC788\uC2B5\uB2C8\uB2E4. \uB610\uD55C \uC624\uC5FC\uB41C
+        \uB18D\uC791\uBB3C\uC744 \uBA39\uC740 \uC0AC\uB78C\uACFC \uB3D9\uBB3C\uC758
+        \uAC74\uAC15\uC744 \uC545\uD654\uC2DC\uD0AC \uC218 \uC788\uC2B5\uB2C8\uB2E4."
+      answers:
+      - answerText: O
+        isCorrect: 1
+      - answerText: X
+        isCorrect: 0
+    - questionText: "\uC2E4\uB0B4\uACF5\uAE30\uB97C \uD5A5\uAE0B\uD558\uAC8C \uD574\uC8FC\uB294
+        \uD0C8\uCDE8\uC81C, \uC138\uD0C1 \uC2DC \uC0AC\uC6A9\uD558\uB294 \uC138\uD0C1\uC138\uC81C\uB294
+        \uC0DD\uD65C\uD654\uD559\uC81C\uD488\uC785\uB2C8\uB2E4."
+      answers:
+      - answerText: O
+        isCorrect: 1
+      - answerText: X
+        isCorrect: 0
+    - questionText: "\uC0DD\uD65C\uD654\uD559\uC81C\uD488\uC744 \uC0AC\uC6A9\uD558\uB294
+        \uC18C\uBE44\uC790\uB97C \uC704\uD574 \uAC01\uC885 \uC815\uBCF4\uB97C \uC54C\uB824\uC8FC\uB294
+        \uC0AC\uC774\uD2B8\uC758 \uC774\uB984\uC740 '\uBE68\uAC04\uB204\uB9AC'\uC785\uB2C8\uB2E4."
+      answers:
+      - answerText: O
+        isCorrect: 0
+      - answerText: X
+        isCorrect: 1
+    - questionText: "\uCD08\uB85D\uB204\uB9AC \uC0AC\uC774\uD2B8\uC5D0 \uC0AC\uC6A9\uD558\uACE0
+        \uC788\uB294 \uC0DD\uD65C\uD654\uD559\uC81C\uD488\uC744 \uAC80\uC0C9\uD558\uBA74
+        \uC5B4\uB5A4 \uD654\uD559\uBB3C\uC9C8\uC774 \uC788\uB294\uC9C0 \uC54C \uC218
+        \uC788\uC2B5\uB2C8\uB2E4."
+      answers:
+      - answerText: O
+        isCorrect: 1
+      - answerText: X
+        isCorrect: 0
+    - questionText: "\uBBF8\uC138\uBA3C\uC9C0\uB780 \uB300\uAE30 \uC911\uC5D0 \uB5A0\uB2E4\uB2C8\uB294
+        10\uB9C8\uC774\uD06C\uB85C\uBBF8\uD130(\u339B) \uC774\uD558\uC758 \uC791\uC740
+        \uC785\uC790\uB97C \uB9D0\uD569\uB2C8\uB2E4."
+      answers:
+      - answerText: O
+        isCorrect: 1
+      - answerText: X
+        isCorrect: 0
+    - questionText: "\uBBF8\uC138\uBA3C\uC9C0\uAC00 \uC6B0\uB9AC \uBAB8\uC5D0 \uB4E4\uC5B4\uC624\uBA74
+        \uC790\uC815\uC791\uC6A9\uC744 \uD574 \uB354 \uAC74\uAC15\uD574\uC9D1\uB2C8\uB2E4."
+      answers:
+      - answerText: O
+        isCorrect: 0
+      - answerText: X
+        isCorrect: 1
+    - questionText: "\uC678\uCD9C\uC2DC \uC2DD\uC57D\uCC98 \uC778\uC99D\uC774 \uB41C
+        \uBCF4\uAC74\uC6A9 \uB9C8\uC2A4\uD06C\uB97C \uCC29\uC6A9\uD558\uBA74 \uBBF8\uC138\uBA3C\uC9C0
+        \uD53C\uD574\uB97C \uC904\uC77C \uC218 \uC788\uC2B5\uB2C8\uB2E4."
+      answers:
+      - answerText: O
+        isCorrect: 1
+      - answerText: X
+        isCorrect: 0
+    - questionText: "\uC678\uCD9C \uD6C4 \uAE68\uB057\uC774 \uC53B\uAE30\uB294 \uBBF8\uC138\uBA3C\uC9C0
+        \uD53C\uD574\uB97C \uC904\uC774\uAE30 \uC704\uD55C \uBC29\uBC95\uC785\uB2C8\uB2E4."
+      answers:
+      - answerText: O
+        isCorrect: 1
+      - answerText: X
+        isCorrect: 0
+    - questionText: "\uACFC\uB3C4\uD55C \uC628\uC2E4\uAC00\uC2A4 \uC99D\uAC00\uAC00
+        \uBD88\uB7EC\uC628 \uC9C0\uAD6C \uC628\uB09C\uD654\uB85C \uC778\uD574 \uC0AC\uB9C9\uD654\uC640
+        \uC0B0\uBD88\uC774 \uC99D\uAC00\uD558\uACE0, \uBE59\uD558\uAC00 \uC0AC\uB77C\uC9D1\uB2C8\uB2E4."
+      answers:
+      - answerText: O
+        isCorrect: 1
+      - answerText: X
+        isCorrect: 0
+    - questionText: "\uC9C0\uAD6C \uC628\uB09C\uD654\uB85C \uC9C0\uAD6C \uC628\uB3C4\uAC00
+        \uC62C\uB77C\uAC00\uBA74, \uB530\uB73B\uD574\uC9C4 \uB0A0\uC528\uB85C \uC0DD\uBB3C
+        \uBA78\uC885\uC774 \uC0AC\uB77C\uC9D1\uB2C8\uB2E4."
+      answers:
+      - answerText: O
+        isCorrect: 0
+      - answerText: X
+        isCorrect: 1
+    - questionText: "\uB300\uC911\uAD50\uD1B5 \uC774\uC6A9\uACFC \uC4F0\uB808\uAE30
+        \uBD84\uB9AC\uBC30\uCD9C\uC740 \uC628\uC2E4\uAC00\uC2A4\uB97C \uC904\uC774\uB294
+        \uBC29\uBC95\uC785\uB2C8\uB2E4."
+      answers:
+      - answerText: O
+        isCorrect: 1
+      - answerText: X
+        isCorrect: 0

@@ -1,0 +1,36 @@
+밤 12시가 되면 viewStep = 0 이 되어야함
+db에 올라가는 것도 viewStep
+
+currentStep : 디바이스에서 세고 있는 걸음수
+viewStep : 보여지는 걸음수
+totalStep : viewStep들 더한 걸음수
+zeroStep : viewStep 값을 db에 저장하는 걸음수 
+                                                                                           if(current ==0 && total > 0)
+view = current - total(전 날까지 더해진 걸음수)                            view = zeroStep + current - total  // total = 0
+view   current    total(밤 11시 59분에 저장)
+100    100        0 -> 100                                                                       95            5         0      
+200    300       100 -> 300                                                                     95         105         100
+300    600       300 -> 600
+400    1000     600 -> 1000
+
+if(핸드폰이 꺼졌다면) // view > current
+{
+ 이 코드
+view = zeroStep + current - total  // total = 0
+ }
+else {
+ view = current - total(전 날까지 더해진 걸음수)  
+ 평소에는 항상 이 코드
+}
+
+
+1. 자원순환 (쓰레기 처리 과정)
+2. 자원순환 (음식물 쓰레기 버리는 방법)
+3. 물환경 (토양오염 원인 + 토양 관리하기 위한 작은 실천들)
+4. 환경보건, 화학물진 (생활화학제품의 마크를 확인해요)
+5. 대기환경 (미세먼지 피해를 줄이는 행동)
+6. 대기환경 (온실가스란? + 줄이는 방법)
+
+1-4 / 1-5 / 1-6
+2-4 / 2-5 / 2-6
+3-4 / 3-5 / 3-6

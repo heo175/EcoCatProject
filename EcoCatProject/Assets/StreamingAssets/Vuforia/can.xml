@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="12" size="30.000000 29.508196" />
+    <ImageTarget name="11" size="30.000000 29.508196" />
+    <ImageTarget name="10" size="30.000000 29.508196" />
+    <ImageTarget name="9" size="30.000000 29.508196" />
+    <ImageTarget name="8" size="30.000000 29.508196" />
+    <ImageTarget name="7" size="30.000000 29.508196" />
+    <ImageTarget name="6" size="30.000000 29.508196" />
+    <ImageTarget name="5" size="30.000000 29.508196" />
+    <ImageTarget name="3" size="30.000000 29.508196" />
+    <ImageTarget name="2" size="30.000000 29.508196" />
+    <ImageTarget name="1" size="30.000000 29.508196" />
+    <ImageTarget name="26" size="30.000000 29.508196" />
+    <ImageTarget name="2222" size="30.000000 29.508196" />
+    <ImageTarget name="27" size="30.000000 29.508196" />
+    <ImageTarget name="25" size="30.000000 29.508196" />
+    <ImageTarget name="23" size="30.000000 29.508196" />
+    <ImageTarget name="22" size="30.000000 29.508196" />
+    <ImageTarget name="21" size="30.000000 29.508196" />
+    <ImageTarget name="20" size="30.000000 29.508196" />
+    <ImageTarget name="19" size="30.000000 29.508196" />
+    <ImageTarget name="18" size="30.000000 29.508196" />
+    <ImageTarget name="17" size="30.000000 29.508196" />
+    <ImageTarget name="16" size="30.000000 29.508196" />
+    <ImageTarget name="15" size="30.000000 29.508196" />
+    <ImageTarget name="14" size="30.000000 29.508196" />
+    <ImageTarget name="can_pic4" size="30.000000 28.837210" />
+    <ImageTarget name="can_p3" size="30.000000 23.191490" />
+    <ImageTarget name="can_p2" size="30.000000 26.722689" />
+    <ImageTarget name="can_p1" size="30.000000 27.913044" />
+    <ImageTarget name="can6" size="30.000000 38.415302" />
+    <ImageTarget name="can5" size="30.000000 38.415302" />
+    <ImageTarget name="can4" size="30.000000 29.508196" />
+    <ImageTarget name="can3" size="30.000000 38.415302" />
+    <ImageTarget name="can2" size="30.000000 38.415302" />
+    <ImageTarget name="can" size="30.000000 29.508196" />
+  </Tracking>
+</QCARConfig>

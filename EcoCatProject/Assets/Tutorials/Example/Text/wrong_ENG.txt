@@ -1,0 +1,11 @@
+﻿Developer:There may be several reasons
+Developer:There are three major things to check first
+Traveler:What is this?
+Developer:Image array, Dialog file, ChoiceSentence array
+Developer:The majority of problems arise when the size of the array does not match
+Developer:Therefore, you need to make the image array size equal to the number of dialog file conversations.
+Developer:In the case of an image, it may be empty in the middle, but the selection array must not be empty in the middle
+Developer:Finally, image arrays, dialog files, and selection arrays All arrays must be left blank at the end because the last line is needed to end the conversation
+Developer:I want to check it and fix it.
+Developer:Do you have any more questions?
+:

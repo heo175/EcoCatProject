@@ -1,0 +1,104 @@
+{
+  "project_info": {
+    "project_number": "625600939938",
+    "firebase_url": "https://environmentkeepereco.firebaseio.com",
+    "project_id": "environmentkeepereco",
+    "storage_bucket": "environmentkeepereco.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:625600939938:android:49aa00e8f246cde0",
+        "android_client_info": {
+          "package_name": "com.hingya.EnvironmentKeeperEco"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "625600939938-g41oe2eohb5f972t0stphu4s9pjtpbtv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hingya.EnvironmentKeeperEco",
+            "certificate_hash": "b087a180b8567b7a35824907821737409d86f4b7"
+          }
+        },
+        {
+          "client_id": "625600939938-flskusj7orss3msv4sh5a3ot9ifi6d5h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hingya.EnvironmentKeeperEco",
+            "certificate_hash": "37c42db2def04bd8db65286a0fb497ccf6080fbc"
+          }
+        },
+        {
+          "client_id": "625600939938-p11q56bi7fpljlvcn1afnv5k1r0ugn6n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hingya.EnvironmentKeeperEco",
+            "certificate_hash": "d29e3b3bebeb49ecdffd204ced065d43f78c05a6"
+          }
+        },
+        {
+          "client_id": "625600939938-2qmdnr2o7p94gfm3a47hvldjfjrfqd0u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hingya.EnvironmentKeeperEco",
+            "certificate_hash": "59d693216a833d124221877067259c6dcd776a7c"
+          }
+        },
+        {
+          "client_id": "625600939938-pv6nrn0cs0fhr0b1vi1gjjobqnjbm9e8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hingya.EnvironmentKeeperEco",
+            "certificate_hash": "26829ea0f453e16e0a1ad9f1656ab1230596f4c4"
+          }
+        },
+        {
+          "client_id": "625600939938-1dvc41q6p7mc3vnlo6to1sakdp99aa7c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hingya.EnvironmentKeeperEco",
+            "certificate_hash": "37e06a1d1cbdc349199717e9e8c0839396773002"
+          }
+        },
+        {
+          "client_id": "625600939938-mopn7p158r3q3krcs16trfjp9o0svj77.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hingya.EnvironmentKeeperEco",
+            "certificate_hash": "49272b2f89946b266beda91b44c317cb9469fe01"
+          }
+        },
+        {
+          "client_id": "625600939938-5pj37f1p0q0u7o553cv8jq267qghb773.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hingya.EnvironmentKeeperEco",
+            "certificate_hash": "4249bf2538ed33e7fb7822850008a8f15d265a17"
+          }
+        },
+        {
+          "client_id": "625600939938-ql2ipg32k3h1alo80b8kc987qdqg85k4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCamtCN8oK61teWbMCkeW7G0XfxefYD1Ds"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "625600939938-ql2ipg32k3h1alo80b8kc987qdqg85k4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

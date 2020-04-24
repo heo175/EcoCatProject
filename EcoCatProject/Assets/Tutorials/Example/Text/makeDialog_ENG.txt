@@ -1,0 +1,9 @@
+﻿Developer:what you say is how to make Dialog.
+Developer:From now on, the conversation will be longer. People who are annoyed with the conversation read the manual
+Developer:You need a little preparation to make a dialog with this asset
+Traveler:What preparation? (Ahhh...I thought it was over when I bought an Asset)
+Developer:That's nothing. You only need to have a Dialog file to display in the Dialog.
+Developer:And optionally, if you have Illustrations to be shown with dialogue or the image to be inserted into the button that should be attached to the dialog by default or the image that will be the background of the dialog ,you can make your Dialog look COOL.
+Traveler:Uhhh.. That' so easy... But how do you make that file?
+Developer:Simple. Press the button next to it          >>>
+:

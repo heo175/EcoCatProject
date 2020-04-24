@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="pet33" size="30.000000 29.290989" />
+    <ImageTarget name="pet11" size="30.000000 29.347826" />
+    <ImageTarget name="25" size="30.000000 29.508196" />
+    <ImageTarget name="24" size="30.000000 29.508196" />
+    <ImageTarget name="23" size="30.000000 29.508196" />
+    <ImageTarget name="22" size="30.000000 29.508196" />
+    <ImageTarget name="21" size="30.000000 29.508196" />
+    <ImageTarget name="20" size="30.000000 29.508196" />
+    <ImageTarget name="19" size="30.000000 29.508196" />
+    <ImageTarget name="18" size="30.000000 29.508196" />
+    <ImageTarget name="17" size="30.000000 29.508196" />
+    <ImageTarget name="16" size="30.000000 29.508196" />
+    <ImageTarget name="15" size="30.000000 29.508196" />
+    <ImageTarget name="14" size="30.000000 29.508196" />
+    <ImageTarget name="13" size="30.000000 29.508196" />
+    <ImageTarget name="12" size="30.000000 29.508196" />
+    <ImageTarget name="11" size="30.000000 29.508196" />
+    <ImageTarget name="10" size="30.000000 29.508196" />
+    <ImageTarget name="9" size="30.000000 29.508196" />
+    <ImageTarget name="8" size="30.000000 29.508196" />
+    <ImageTarget name="7" size="30.000000 29.508196" />
+    <ImageTarget name="6" size="30.000000 29.508196" />
+    <ImageTarget name="5" size="30.000000 29.508196" />
+    <ImageTarget name="4" size="30.000000 29.508196" />
+    <ImageTarget name="3" size="30.000000 29.508196" />
+    <ImageTarget name="2" size="30.000000 29.508196" />
+    <ImageTarget name="1" size="30.000000 29.508196" />
+    <ImageTarget name="pet_p3" size="30.000000 22.380953" />
+    <ImageTarget name="pet_p2" size="30.000000 30.441177" />
+    <ImageTarget name="pet_p1" size="30.000000 28.054054" />
+    <ImageTarget name="pet2" size="30.000000 29.508196" />
+    <ImageTarget name="pet3" size="10.000000 9.836065" />
+  </Tracking>
+</QCARConfig>
