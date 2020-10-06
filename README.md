@@ -42,6 +42,10 @@
   Google Play 게임 서비스를 사용하여 Firebase를 기반으로 개발된 Android 게임에 플레이어가 로그인하도록 할 수 있다. Google Play 게임에 플레이어를 로그인 처리하면서 OAuth 2.0 인증 코드를 요청하고, 인증 코드를 전달하여 Firebase 사용자 인증 정보를 생성한다. 이 인증 정보를 사용하여 Firebase에 인증할 수 있다.
   
 ## 4. 스토리 진행
+![KakaoTalk_20201006_125153915](https://user-images.githubusercontent.com/46212602/95157214-54f88880-07d3-11eb-96fa-463dcfc15d1a.jpg)
+![KakaoTalk_20201006_125153915_01](https://user-images.githubusercontent.com/46212602/95157216-5629b580-07d3-11eb-90f7-cb5bf50784fc.jpg)
+![KakaoTalk_20201006_125153915_02](https://user-images.githubusercontent.com/46212602/95157218-56c24c00-07d3-11eb-988f-4663f6f57c64.jpg)
+![KakaoTalk_20201006_125153915_03](https://user-images.githubusercontent.com/46212602/95157220-575ae280-07d3-11eb-85ae-a3176547496e.jpg)
 
  환경을 지키는 고양이 에코냥이 숲 속에 쓰러져 있는 것을 발견하고, 앞으로 에코냥과 함께 위기에 처한 동물들을 도와주기로 한다. 지구온난화로 인해 빙하가 녹아 엄마를 잃어버린 북극곰, 바다 속 플라스틱을 먹은 가족들로 울고 있는 돌고래, 지구온난화로 대나무가 사라진 팬더, 자동차 배기가스로 고통받는 나무의 순서로 이야기가 진행된다. 각 동물 스토리는 인트로가 먼저 진행되며, 인트로가 끝나면 에너지를 사용해 도와주기를 5단계 마쳐야한다. 5단계를 마친 후, 아웃트로가 등장한다. 
  
@@ -54,7 +58,15 @@
 
 Play game이 설치되어 있고, 구글 계정이 로그인된 상태라면 환경지키미 에코냥 애플리케이션을 켰을 때 구글 계정 인증을 한다. 인증에 성공할시, 닉네임을 입력받음과 동시에 회원가입이 된다. 에코냥과의 만남 튜토리얼로 이어지면서 게임의 이야기가 진행된다. 
  
-### 2. 미니게임
+### 2. 동물 도와주기
+![KakaoTalk_20201006_123917846](https://user-images.githubusercontent.com/46212602/95157080-0519c180-07d3-11eb-8656-1d2782911331.jpg)
+![KakaoTalk_20201006_123917846_01](https://user-images.githubusercontent.com/46212602/95157083-05b25800-07d3-11eb-9d02-0c3b53c173c0.jpg)
+![KakaoTalk_20201006_123917846_02](https://user-images.githubusercontent.com/46212602/95157084-05b25800-07d3-11eb-925d-635e5605b4c6.jpg)
+
+에너지를 사용해 동물을 도와줄 수 있다. 각 동물들은 다섯 개의 단계를 가지고 있으며, 단계가 진행될수록 사용 에너지가 2000씩 늘어난다. 에너지를 사용하면 보이는 메인 페이지의 그래픽이 달라진다. 단계별로 개선되는 동물의 환경을 볼 수 있다.
+
+
+### 3. 미니게임
 #### 1. 캐치캐치 쓰레기받기
 ![KakaoTalk_20201006_110600984](https://user-images.githubusercontent.com/46212602/95151880-bebe6580-07c6-11eb-8470-2c45e3f07f65.jpg)
 ![KakaoTalk_20201006_110600984_01](https://user-images.githubusercontent.com/46212602/95151881-bf56fc00-07c6-11eb-8e2f-6e111e8a1f48.jpg)
