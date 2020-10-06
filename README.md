@@ -52,7 +52,10 @@
  
 ### 2. 미니게임
 #### 1. 캐치캐치 쓰레기받기
-![image](https://user-images.githubusercontent.com/46212602/95151047-a64d4b80-07c4-11eb-8e9f-cdbb91cf93c9.png)
+![KakaoTalk_20201006_110600984](https://user-images.githubusercontent.com/46212602/95151880-bebe6580-07c6-11eb-8470-2c45e3f07f65.jpg)
+![KakaoTalk_20201006_110600984_01](https://user-images.githubusercontent.com/46212602/95151881-bf56fc00-07c6-11eb-8e2f-6e111e8a1f48.jpg)
+![KakaoTalk_20201006_110600984_02](https://user-images.githubusercontent.com/46212602/95151883-bfef9280-07c6-11eb-83db-61330e58a63c.jpg)
+![KakaoTalk_20201006_110600984_03](https://user-images.githubusercontent.com/46212602/95151884-bfef9280-07c6-11eb-8566-5b25bfa59ea7.jpg)
 
 우측하단에 있는 분리배출표시제도 마크에 따라 하늘에서 내려오는 쓰레기를 양동이로 받는 게임. 하트를 받으면 생명이 추가되고, 마크에 맞지 않은 쓰레기를 받으면 생명이 감소한다. 받아야 할 목표 쓰레기 개수에 맞게 모두 받으면 게임 성공. 생명이 모두 깎이거나, 시간이 0이 되면 게임 실패.
 
