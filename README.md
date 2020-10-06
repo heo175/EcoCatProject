@@ -59,3 +59,42 @@
 
 우측하단에 있는 분리배출표시제도 마크에 따라 하늘에서 내려오는 쓰레기를 양동이로 받는 게임. 하트를 받으면 생명이 추가되고, 마크에 맞지 않은 쓰레기를 받으면 생명이 감소한다. 받아야 할 목표 쓰레기 개수에 맞게 모두 받으면 게임 성공. 생명이 모두 깎이거나, 시간이 0이 되면 게임 실패.
 
+#### 2. 나무 키우기 게임
+![KakaoTalk_20201006_114946794](https://user-images.githubusercontent.com/46212602/95154147-29be6b00-07cc-11eb-9504-b79d424aec75.jpg)
+![KakaoTalk_20201006_114946794_01](https://user-images.githubusercontent.com/46212602/95154150-2a570180-07cc-11eb-965a-f7b1192f5a1b.jpg)
+![KakaoTalk_20201006_114946794_02](https://user-images.githubusercontent.com/46212602/95154151-2aef9800-07cc-11eb-8071-ab5d0adcfe24.jpg)
+![KakaoTalk_20201006_114946794_03](https://user-images.githubusercontent.com/46212602/95154152-2aef9800-07cc-11eb-9b7d-ddffe8b30431.jpg)
+
+설명에 따라 삽, 씨앗, 물, 햇빛, 잡초 순으로 빠르게 클릭해 나무를 키우는 게임. 제한 시간 안에 나무를 키우면 게임 성공. 시간이 지나면 게임 실패.
+
+#### 3. 쓰레기를 없애라!
+![KakaoTalk_20201006_115811953](https://user-images.githubusercontent.com/46212602/95154382-abae9400-07cc-11eb-860f-47dc629a18b5.jpg)
+![KakaoTalk_20201006_115811953_01](https://user-images.githubusercontent.com/46212602/95154384-ac472a80-07cc-11eb-88ce-2c77290a552c.jpg)
+![KakaoTalk_20201006_115811953_02](https://user-images.githubusercontent.com/46212602/95154386-ac472a80-07cc-11eb-80d7-4532821c7360.jpg)
+![KakaoTalk_20201006_115811953_03](https://user-images.githubusercontent.com/46212602/95154387-acdfc100-07cc-11eb-8e8c-30f7d4c4e641.jpg)
+
+제한 시간 안에 쓰레기를 터치해 모두 없애는 게임. 시간 안에 모든 쓰레기를 없애면 게임 성공. 시간이 0이 되면 게임 실패.
+
+#### 4. 환경 OX 퀴즈
+![KakaoTalk_20201006_115756435](https://user-images.githubusercontent.com/46212602/95154443-cbde5300-07cc-11eb-9fe6-d8c2a8808054.jpg)
+![KakaoTalk_20201006_115756435_01](https://user-images.githubusercontent.com/46212602/95154445-cc76e980-07cc-11eb-8bad-caf47158ea12.jpg)
+![KakaoTalk_20201006_115756435_02](https://user-images.githubusercontent.com/46212602/95154446-cc76e980-07cc-11eb-9cd0-411e99644b5c.jpg)
+![KakaoTalk_20201006_115756435_03](https://user-images.githubusercontent.com/46212602/95154447-cd0f8000-07cc-11eb-820b-d29be9b0c244.jpg)
+
+환경과 관련된 문제를 읽고 O, X로 답을 맞추는 게임. 환경 정보 페이지의 내용으로 문제 구성. 틀리면 생명이 감소하며, 제한 시간 안에 목표 문제 개수를 맞춰야 게임 성공. 생명이 0이 되거나, 시간 안에 문제를 맞추지 못 하면 게임 실패. 
+
+#### 5. 에코런
+![KakaoTalk_20201006_115734169](https://user-images.githubusercontent.com/46212602/95154494-e9132180-07cc-11eb-8ad4-c7180f66fc4c.jpg)
+![KakaoTalk_20201006_115734169_01](https://user-images.githubusercontent.com/46212602/95154496-ea444e80-07cc-11eb-846a-ba0908ed74da.jpg)
+![KakaoTalk_20201006_115734169_02](https://user-images.githubusercontent.com/46212602/95154497-ea444e80-07cc-11eb-803e-c29f7e0a6577.jpg)
+![KakaoTalk_20201006_115734169_03](https://user-images.githubusercontent.com/46212602/95154498-eadce500-07cc-11eb-816c-31e5db8b198b.jpg)
+
+새싹을 밟지 않고 목표 쓰레기 개수를 맞춰 성에 도착하는 게임. 하트를 먹으면 생명이 증가하고, 새싹을 밟으면 생명이 감소한다. 목표 쓰레기 개수를 채우면 게임 성공. 생명이 다 사라지면 게임 실패.
+
+#### 6. 점핑! 분리배출
+![KakaoTalk_20201006_115718401](https://user-images.githubusercontent.com/46212602/95154577-1790fc80-07cd-11eb-91ea-451d1659fff9.jpg)
+![KakaoTalk_20201006_115718401_01](https://user-images.githubusercontent.com/46212602/95154579-18299300-07cd-11eb-8284-73b91e166f70.jpg)
+![KakaoTalk_20201006_115718401_02](https://user-images.githubusercontent.com/46212602/95154580-18299300-07cd-11eb-948d-0db653ca47fc.jpg)
+![KakaoTalk_20201006_115718401_03](https://user-images.githubusercontent.com/46212602/95154581-18c22980-07cd-11eb-8f8f-478bca3c23b9.jpg)
+
+캔, 종이, 플라스틱 중 랜덤으로 나오는 좌측하단의 쓰레기의 종류에 맞게 발판을 밟고 올라가 알맞은 쓰레기통에 도착하는 게임. 알맞은 쓰레기통에 도착하면 게임 성공. 쓰레기 종류에 맞지 않는 쓰레기통에 도착하면 게임 실패. 
