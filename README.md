@@ -114,3 +114,25 @@ Play game이 설치되어 있고, 구글 계정이 로그인된 상태라면 환
 ![KakaoTalk_20201006_115718401_03](https://user-images.githubusercontent.com/46212602/95154581-18c22980-07cd-11eb-8f8f-478bca3c23b9.jpg)
 
 캔, 종이, 플라스틱 중 랜덤으로 나오는 좌측하단의 쓰레기의 종류에 맞게 발판을 밟고 올라가 알맞은 쓰레기통에 도착하는 게임. 알맞은 쓰레기통에 도착하면 게임 성공. 쓰레기 종류에 맞지 않는 쓰레기통에 도착하면 게임 실패. 
+
+### 4. 분리배출표시제도 마크 촬영
+![KakaoTalk_20201006_135131107](https://user-images.githubusercontent.com/46212602/95160441-8ecd8d00-07db-11eb-835d-a3870119ca0e.jpg)
+![KakaoTalk_20201006_135122182](https://user-images.githubusercontent.com/46212602/95160436-8d9c6000-07db-11eb-8bd1-d1a116596d9f.jpg)
+![KakaoTalk_20201006_135122182_01](https://user-images.githubusercontent.com/46212602/95160438-8e34f680-07db-11eb-8378-75cf731745b0.jpg)
+![KakaoTalk_20201006_135122182_02](https://user-images.githubusercontent.com/46212602/95160440-8ecd8d00-07db-11eb-861d-8c9f80cfcb84.jpg)
+
+뷰포리아를 이용하여 카메라로 분리배출표시제도 마크를 촬영하면, 마크를 인식해 그에 맞는 분리배출 방법을 설명하는 페이지로 이동한다.
+
+### 5. 걸음 수 측정
+![걸음1](https://user-images.githubusercontent.com/46212602/95159950-49f52680-07da-11eb-871f-cc66a46ffe8f.png)
+![걸음2](https://user-images.githubusercontent.com/46212602/95159952-4a8dbd00-07da-11eb-898e-03f6eaa56204.png)
+
+ 안드로이드 motion 센서 중 가속도계를 이용해 걸음수를 측정한다.
+ 측정한 걸음수는 데이터베이스에 저장되며, 기록을 누르면 일주일간의 걸음수 기록을 확인할 수 있다. 
+
+### 6.환경정보 페이지
+![KakaoTalk_20201006_135322920](https://user-images.githubusercontent.com/46212602/95160654-10bdb600-07dc-11eb-9058-0ae8efb625c5.jpg)
+![KakaoTalk_20201006_135322920_01](https://user-images.githubusercontent.com/46212602/95160660-11564c80-07dc-11eb-8a32-8e021f5ce669.jpg)
+![KakaoTalk_20201006_135322920_02](https://user-images.githubusercontent.com/46212602/95160661-11564c80-07dc-11eb-9079-10ac391e7be0.jpg)
+
+환경에 대한 정보를 알기 쉽게 풀어 설명한다. 어린이들을 대상으로 쉽게 이해할 수 있는 주제로 선정했으며, 환경정보 페이지에 있는 내용들을 공부하면 미니게임에서 더 쉽게 게임을 성공할 수 있도록 기획했다. 
