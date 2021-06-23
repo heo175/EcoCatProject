@@ -3,7 +3,7 @@
 
 - 팀장 - 허윤신 (Unity, c#, SQLite) @heo175
 - 팀원 - 이선민 (Unity, c#, firebase, UX Design) @ji_ji
-- 팀원 - 김채원 (UI Design, Graphic Design)
+- 팀원 - 김채원 (UI Design, Graphic Design) @Chaeonida
 
 ## 1. 배경
 
